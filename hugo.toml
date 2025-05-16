@@ -7,3 +7,6 @@ theme = "tale"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[Params]
+author = { name = "LinuxJava7" }
