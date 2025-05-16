@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://blog.linuxjava7.dev/'
+languageCode = 'en-gb'
+title = "LinuxJava7's Blog"
 
 theme = "tale"
 
