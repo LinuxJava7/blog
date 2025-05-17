@@ -2,7 +2,7 @@ baseURL = 'https://blog.linuxjava7.dev/'
 languageCode = 'en-gb'
 title = "LinuxJava7's Blog"
 
-theme = "tale"
+theme = "hugo-theme-stack"
 
 [caches]
   [caches.images]
