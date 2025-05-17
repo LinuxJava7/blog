@@ -8,5 +8,3 @@ theme = "hugo-theme-stack"
   [caches.images]
     dir = ':cacheDir/images'
 
-[Params]
-author = { name = "LinuxJava7" }
