@@ -2,9 +2,24 @@ baseURL = 'https://blog.linuxjava7.dev/'
 languageCode = 'en-gb'
 title = "LinuxJava7's Blog"
 
-theme = "hugo-theme-stack"
+theme = "PaperMod"
 
 [caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+[caches.images]
+dir = ':cacheDir/images'
 
+[params.homeInfoParams]
+Title = "Hi! This is my blog."
+Content = "I write stuff sometimes."
+
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://mastodon.social/@linuxjava7"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/LinuxJava7/"
+
+[[menu.main]]
+name = "Home"
+url = "https://linuxjava7.dev/"
